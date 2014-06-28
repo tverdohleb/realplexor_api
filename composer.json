@@ -1,0 +1,9 @@
+{
+    "name": "tverdohleb/realplexor_api",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Dklab\\": "src"
+        }
+    }
+}
